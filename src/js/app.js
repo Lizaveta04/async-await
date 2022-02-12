@@ -6,7 +6,7 @@ console.log('app worked');
   try {
     const saving = await GameSavingLoader.load();
     console.log(saving);
-  } catch (error) {
-    console.error(error);
+  } catch (err) {
+    console.error(new Error('Ошибка!Не удалось распарсить строку!'));
   }
 })();
