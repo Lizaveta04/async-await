@@ -1,4 +1,4 @@
-# Домашнее задание №2 к лекции «Promises, async/await»
+# Домашнее задание №2 к лекции «Promises, async/await»        
 
 ## async/await
 
